@@ -41,7 +41,7 @@ elif response == 4:
 
 else: 
    print ("invalid input")
-   print ("thank you fool")  
+   
    
  
 
